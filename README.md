@@ -1,9 +1,5 @@
 # Typescript Basics
 
-> *Click &#9733; if you like the project. Your contributions are heartily ♡ welcome.*
-
-<br/>
-
 ## Q. What are the typescript features?
 
 **TypeScript** is a superset of JavaScript which primarily provides optional static typing, classes and interfaces.
